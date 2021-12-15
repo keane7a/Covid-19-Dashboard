@@ -1,0 +1,1356 @@
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-14 18:17:35.771105
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:49:00.203279
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:49:00.711690
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:49:08.730200
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:49:08.750136
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:49:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:49:08] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:49:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:50:09.132284
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:50:09.134280
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:50:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:50:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:51:09.201398
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:51:09.203396
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:51:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:51:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:52:09.274516
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:52:09.276505
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:52:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:52:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:53:09.338885
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:53:09.340881
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:53:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:53:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:54:09.410407
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:54:09.412404
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:54:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:54:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:55:09.489204
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:55:09.492189
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:55:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:55:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:56:09.569215
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:56:09.571212
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:56:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:56:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:57:09.642911
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:57:09.645901
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:57:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:57:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:58:09.724076
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:58:09.726066
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:58:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:58:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 10:59:09.797544
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 10:59:09.799534
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:59:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 10:59:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:00:09.866768
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:00:09.869758
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:00:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:00:09] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:00:50.353028
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:00:53.097384
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:00:53.099379
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:00:53] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:00:53] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:00:54.361888
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:00:54.363878
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:00:54] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:00:54] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:01:54.429080
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:01:54.432057
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:01:54] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:01:54] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:02:09.906841
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:02:10.398651
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:02:13.284248
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:02:13.287232
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:02:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:02:13] "GET /static/images/image.png HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:03:13.349444
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:03:13.351435
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:03:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:03:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:04:13.423153
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:04:13.425167
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:04:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:04:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:05:13.505804
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:05:13.507797
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:05:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:05:13] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:06:13.582657
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:06:13.585647
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:06:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:06:13] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:07:13.658439
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:07:13.661432
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:07:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:07:13] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:08:13.735708
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:08:13.737705
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:08:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:08:13] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:09:13.816005
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:09:13.818997
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:09:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:09:13] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:10:13.910038
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:10:13.912031
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:10:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:10:13] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:11:14.002136
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:11:14.004125
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:11:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:11:14] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:12:14.070149
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:12:14.072137
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:12:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:12:14] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:13:14.147663
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:13:14.149656
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:13:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:13:14] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:14:14.220463
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:14:14.222457
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:14:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:14:14] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:15:14.293205
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:15:14.296194
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:15:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:15:14] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:16:14.367348
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:16:14.370338
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:16:14] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:16:14] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:16:24.681960
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:16:24.683954
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:16:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:16:24] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:17:24.757564
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:17:24.760528
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:17:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:17:24] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:18:24.840221
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:18:24.842214
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:18:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:18:24] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:19:24.912120
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:19:24.916107
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:19:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:19:24] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:20:24.993438
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:20:24.995426
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:20:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:20:25] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:21:25.075253
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:21:25.077246
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:21:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:21:25] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:22:25.140430
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:22:25.143420
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:22:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:22:25] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:23:25.212136
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:23:25.215126
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:23:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:23:25] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:24:25.278294
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:24:25.281286
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:24:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:24:25] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:25:25.364417
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:25:25.366410
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:25:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:25:25] "[33mGET /static/images/image.png HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:26:25.437053
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:26:25.439046
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:26:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:26:25] "GET /static/images/image.png HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:26:28.121063
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:26:28.124053
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:26:28] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:26:28] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:26:29.233067
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:26:29.235064
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:26:29] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:26:29] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:27:01.574511
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:27:01.577504
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:27:01] "GET /index?notif=Covid-19+news%3A+Two+vaccine+doses+not+enough+to+stop+omicron+infection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:27:01] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:49:08.247069
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:49:08.750071
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:49:11.755352
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:49:11.758342
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:11] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:11] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:49:19.734241
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 11:49:19.736234
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 11:49:19.736234
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:19] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:19] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:19] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:19] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:19] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:49:19] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\time_diffrence.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:04.088942
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:11.005890
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:11.512738
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\test_time_difference.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:14.414042
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:20.031542
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:51:20.034470
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:20] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:20] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:27.553342
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 11:51:27.555335
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 11:51:27.555335
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:27] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:27] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:27] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:27] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:27] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:54.474732
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:51:56.836938
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 11:51:56.838929
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 11:51:56.838929
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:56] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:56] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:56] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:56] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:51:56] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:52:42.177700
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:53:31.988139
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:53:33.503322
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:53:33.506314
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:33] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:33] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:53:37.364544
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 11:53:37.366537
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 11:53:37.366537
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:37] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:37] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:37] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:37] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:53:37] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:53:43.612483
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:53:58.494987
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:54:06.869877
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:56:34.624989
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:56:35.133177
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:56:38.200347
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:56:38.202332
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:38] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:38] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:38] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:56:42.767195
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 11:56:42.769189
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 11:56:42.769189
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:42] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:42] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:42] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:42] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:56:42] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\time_diffrence.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:57:06.444324
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:57:08.930691
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 11:57:08.933682
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:08] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 11:57:11.767674
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 11:57:11.769666
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 11:57:11.769666
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:11] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:11] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:11] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:11] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 11:57:11] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:04:47.491264
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:04:47.994450
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:04:52.391790
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:04:52.393783
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:52] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:52] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:04:57.407967
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 12:04:57.408965
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:04:57.408965
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:57] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:57] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:57] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:57] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:04:57] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:05:35.589243
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:05:41.219868
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:05:41.733339
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:05:44.370750
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:05:44.373744
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:44] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:05:50.953984
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 12:05:50.955971
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:05:50.955971
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:50] "[35m[1mGET /index?update=&two=update+news&news=news HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:50] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:50] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:51] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:05:51] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:03.140642
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:05.730224
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:07:05.733215
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:05] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:05] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:13.074157
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 12:07:13.076150
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:07:13.076150
+INFO:root:news has been removed permanently at 2021-12-15 12:07:13.076150
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:13] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 12:07:27.835274
+INFO:root:update news has been updated at 2021-12-15 12:07:27.835274
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:27.841307
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 12:07:27.843243
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:07:27.843243
+INFO:root:news has been removed permanently at 2021-12-15 12:07:27.843243
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:27] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:27] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 12:07:32.249047
+INFO:root:update news has been updated at 2021-12-15 12:07:32.250043
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:32.250043
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:07:32.253033
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:32] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:32] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:41.778115
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 12:07:41.780107
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:07:41.780107
+INFO:root:news has been removed permanently at 2021-12-15 12:07:41.781104
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:41] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:41] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 12:07:44.343644
+INFO:root:update news has been updated at 2021-12-15 12:07:44.343644
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:07:44.344641
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:07:44.346634
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:44] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:07:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:08:24.621117
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:08:44.428528
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:08:44.430525
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:08:44] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:08:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:09:44.507672
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:09:44.509666
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:09:44] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:09:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:10:44.596566
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:10:44.598558
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:10:44] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:10:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:11:05.269743
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 12:11:05.271736
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:11:05.271736
+INFO:root:news has been removed permanently at 2021-12-15 12:11:05.271736
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:11:05] "GET /index?update=12%3A11&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:11:05] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 12:12:05.536121
+INFO:root:update news has been updated at 2021-12-15 12:12:05.536121
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:05.537122
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:12:05.539114
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:05] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:05] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:15.267988
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:12:15.270977
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:15] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:15] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:21.551157
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:12:21.554148
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:21] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:21] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:50.329761
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:50.832093
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:51.113856
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:covid is being updated at 2021-12-15 12:12:51.115873
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:12:51.115873
+INFO:root:news has been removed permanently at 2021-12-15 12:12:51.116846
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:51] "GET /index?update=&two=update+data&covid-data=covid-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:51] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:covid data has been updated at 2021-12-15 12:12:57.843957
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesBySpecimenDate%22:%22newCasesBySpecimenDate%22%7D HTTP/1.1" 200 None
+INFO:root:update data has been updated at 2021-12-15 12:12:59.209750
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:12:59.211740
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:12:59.221706
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:59] "GET /index?update_item=update+data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:12:59] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:13:02.569137
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:covid is being updated at 2021-12-15 12:13:02.571134
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 12:13:02.571134
+INFO:root:news has been removed permanently at 2021-12-15 12:13:02.572127
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:13:02] "GET /index?update=&two=update+data&covid-data=covid-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:13:02] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:covid data has been updated at 2021-12-15 12:13:04.528950
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesBySpecimenDate%22:%22newCasesBySpecimenDate%22%7D HTTP/1.1" 200 None
+INFO:root:update data has been updated at 2021-12-15 12:13:04.629403
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:13:04.630450
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:13:04.640365
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:13:04] "GET /index?update_item=update+data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:13:04] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 12:13:08.364032
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 12:13:08.366011
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:13:08] "GET /index?update_item=update+data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 12:13:08] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:27.073417
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:27.588992
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:29.410511
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:40:29.410511
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:29] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:29] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:41.566866
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:covid is being updated at 2021-12-15 16:40:41.568865
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 16:40:41.568865
+INFO:root:news is being updated at 2021-12-15 16:40:41.568865
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 16:40:41.568865
+INFO:root:news has been removed permanently at 2021-12-15 16:40:41.569856
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:41] "GET /index?update=&two=update+news&covid-data=covid-data&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:41] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:covid data has been updated at 2021-12-15 16:40:44.763136
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesBySpecimenDate%22:%22newCasesBySpecimenDate%22%7D HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+INFO:root:update news has been updated at 2021-12-15 16:40:45.439673
+INFO:root:update news has been updated at 2021-12-15 16:40:45.439673
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:45.441666
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:40:45.451633
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:45] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:45] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 16:40:45.635858
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:45.640922
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:40:45.642952
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:45] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:40:47.763057
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:40:47.764896
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:47] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:40:47] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:16.202986
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:16.204979
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:16] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:16] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:16.674195
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:16.674195
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:16] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:16] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:17.910831
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:17.913783
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:17] "GET /index?notif=EN+DIRECT+-+Cinquième+vague+%3A+un+Conseil+de+défense+sanitaire+prévu+vendredi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:17] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:18.077456
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:18.077456
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:18] "GET /index?notif=EN+DIRECT+-+Cinquième+vague+%3A+un+Conseil+de+défense+sanitaire+prévu+vendredi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:18] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:18.343705
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:18.345696
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:18] "GET /index?notif=COVID-19+live+updates%3A+Omicron+is+expected+to+be+the+dominant+coronavirus+variant+by+mid-January%2C+says+EU+official HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:18] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:18.510593
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:18.510593
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:18] "GET /index?notif=COVID-19+live+updates%3A+Omicron+is+expected+to+be+the+dominant+coronavirus+variant+by+mid-January%2C+says+EU+official HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:18] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:20.525665
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:20.527658
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:20] "GET /index?notif=covid+19%3A+++Covid-19%3A+India+logged+6%2C984+new+coronavirus+infections%2C+active+cases+in+country+decline+to+87%2C562+%7C+India+News+-+Times+of+India HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:20] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:20.691882
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:20.693880
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:20] "GET /index?notif=covid+19%3A+++Covid-19%3A+India+logged+6%2C984+new+coronavirus+infections%2C+active+cases+in+country+decline+to+87%2C562+%7C+India+News+-+Times+of+India HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:20] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:21.497697
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:21.499694
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:21] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:21] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:21.661739
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:21.663732
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:21] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:21] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:27.708682
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 16:41:27.711672
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 16:41:27.711672
+INFO:root:news has been removed permanently at 2021-12-15 16:41:27.711672
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:27] "GET /index?update=&two=update+data&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:27] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 16:41:30.251238
+INFO:root:update data has been updated at 2021-12-15 16:41:30.251238
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:30.256221
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:30.259207
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:30] "GET /index?update_item=update+data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:30] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:41:58.941517
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:41:58.943510
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:58] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:41:58] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:42:08.029978
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 16:42:08.031975
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 16:42:08.031975
+INFO:root:news has been removed permanently at 2021-12-15 16:42:08.031975
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:42:08] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:42:08] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 16:42:12.843618
+INFO:root:update news has been updated at 2021-12-15 16:42:12.843618
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:42:12.850591
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:42:12.853580
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:42:12] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:42:12] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:44:48.384734
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:44:50.038950
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:44:50.041941
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:44:50] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:44:50] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:45:50.175977
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:45:50.177970
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:45:50] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:45:50] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:46:50.240992
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:46:50.242985
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:46:50] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:46:50] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:47:04.643357
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:47:06.574169
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:47:06.576167
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:47:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:47:06] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:48:06.646967
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:48:06.648960
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:48:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:48:06] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:48:15.387599
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:48:25.918894
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:48:25.921883
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:48:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:48:25] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:49:26.001770
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:49:26.003763
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:49:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:49:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:50:26.078550
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:50:26.080543
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:50:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:50:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:51:26.149492
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:51:26.151490
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:51:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:51:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:52:26.228693
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:52:26.230674
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:52:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:52:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:53:26.296638
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:53:26.298628
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:53:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:53:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:54:26.362118
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:54:26.364117
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:54:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:54:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:55:26.434994
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:55:26.437963
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:55:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:55:26] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:03.797197
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:03.799191
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:03] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:03] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:05.601449
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:05.603446
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:05] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:05] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:06.459802
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:06.461794
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:06] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:06] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:09.563366
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:09.566354
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:09] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:09] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:10.258916
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:10.260909
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:10] "GET /index?notif=EN+DIRECT+-+Cinquième+vague+%3A+un+Conseil+de+défense+sanitaire+prévu+vendredi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:10] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:11.059442
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:11.062429
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:11] "GET /index?notif=EN+DIRECT+-+Cinquième+vague+%3A+un+Conseil+de+défense+sanitaire+prévu+vendredi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:11] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:11.580136
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:11.582129
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:11] "GET /index?notif=COVID-19+live+updates%3A+Omicron+is+expected+to+be+the+dominant+coronavirus+variant+by+mid-January%2C+says+EU+official HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:11] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:12.099587
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:12.101586
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:12] "GET /index?notif=COVID-19+live+updates%3A+Omicron+is+expected+to+be+the+dominant+coronavirus+variant+by+mid-January%2C+says+EU+official HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:12] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:13.847164
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:13.850154
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:13] "GET /index?notif=covid+19%3A+++Covid-19%3A+India+logged+6%2C984+new+coronavirus+infections%2C+active+cases+in+country+decline+to+87%2C562+%7C+India+News+-+Times+of+India HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:14.756407
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:14.758404
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:14] "GET /index?notif=covid+19%3A+++Covid-19%3A+India+logged+6%2C984+new+coronavirus+infections%2C+active+cases+in+country+decline+to+87%2C562+%7C+India+News+-+Times+of+India HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:14] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:51] "[33mGET /indexIndia HTTP/1.1[0m" 404 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:56:54.608541
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:56:54.610538
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:54] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:54] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:56:55] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:57:01.908181
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:57:01.910175
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:57:01] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:57:01] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:57:12.625337
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:57:12.625337
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:57:12] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:57:12] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:57:18.306532
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:57:18.308525
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:57:18] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:57:18] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:58:23.531259
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:58:28.040395
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:58:28.043384
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:58:28] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:58:28] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:59:11.428322
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:59:11.945318
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 16:59:12.967118
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 16:59:12.969111
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:59:12] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 16:59:12] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:00:13.032696
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:00:13.034689
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:00:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:00:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:01:13.100630
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:01:13.102627
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:01:33.473887
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:01:35.275960
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:01:35.414083
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:35] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:35] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:35] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:35] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:01:35] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:02:46.998859
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:02:48.798322
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:02:52.376721
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:02:52.882625
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:02:54.091891
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:54] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:54] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:54] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:54] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:54] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:54] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:02:56.802313
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:56] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:56] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:56] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:56] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:56] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:02:56] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:03:28.503939
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:03:30.159400
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:03:30] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:03:30] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:04:10.662312
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:04:10.665300
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:10] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:10] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:04:10.913958
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:04:10.915951
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:10] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:10] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:04:15.463191
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:04:15.465184
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:15] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:15] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:04:17.451953
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:04:17.453947
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:17] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:17] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:04:32.444273
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:32] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:32] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:04:32] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:37.508341
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:38.026585
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:38.834464
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:38] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:38] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:42.386460
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:42.388452
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:42] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:42] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:43.015589
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:43.017586
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:43] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:43] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:44.110149
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:44.112142
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:44.274099
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:44.276093
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:44.449213
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:44.452202
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "GET /index?notif=EN+DIRECT+-+Cinquième+vague+%3A+un+Conseil+de+défense+sanitaire+prévu+vendredi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:44.604119
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:44.606117
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "GET /index?notif=EN+DIRECT+-+Cinquième+vague+%3A+un+Conseil+de+défense+sanitaire+prévu+vendredi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:44.773974
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:05:44.776969
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "GET /index?notif=COVID-19+live+updates%3A+Omicron+is+expected+to+be+the+dominant+coronavirus+variant+by+mid-January%2C+says+EU+official HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:44] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:48.677110
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:05:48.679104
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:05:48.679104
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:48] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:48] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:05:53.988921
+INFO:root:update news has been updated at 2021-12-15 17:05:53.988921
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:05:53.994868
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:05:53.996998
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:05:53.996998
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:53] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:05:54] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:06:02.205068
+INFO:root:update news has been updated at 2021-12-15 17:06:02.205068
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:02.206083
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:06:02.208092
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:06:02.208092
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:02] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:02] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:06:03.783734
+INFO:root:update news has been updated at 2021-12-15 17:06:03.783734
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:03.784731
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:03.787716
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:03] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:03] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:04.941587
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:04.944573
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:04] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:04] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:05.401543
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:05] "[35m[1mGET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:05] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:05] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:05] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:05] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:05] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:09.585150
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:09] "[35m[1mGET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:09] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:09] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:09] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:09] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:17.352502
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:17] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:17] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:18.973860
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:18] "[35m[1mGET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:18] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:18] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:19] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:19] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:25.678792
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:25] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:27.250246
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:27] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:27] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:37.680369
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:38.188056
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:39.266222
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:39.269212
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:39] "GET /index?notif=covid+19%3A+++Covid-19%3A+India+logged+6%2C984+new+coronavirus+infections%2C+active+cases+in+country+decline+to+87%2C562+%7C+India+News+-+Times+of+India HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:39] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:40.893518
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:40.895511
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:40] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:40] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:41.538516
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:41.540506
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:41] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:41] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:42.218117
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:42.220114
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:42] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:42] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:42.844090
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:06:42.846087
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:42] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:42] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:47.320046
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:06:47.322039
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:06:47.322039
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:47] "GET /index?update=&two=update+data&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:47] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:06:53.095263
+INFO:root:update data has been updated at 2021-12-15 17:06:53.095263
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:53.101239
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:53] "GET /index?update_item=update+data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:53] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:06:54.771160
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:54] "[35m[1mGET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:54] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:54] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:54] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:06:54] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Keane\\school\\2021-2022\\University of Exeter\\(ECM1400) Programming\\Python programming project\\FInal Project\\main_dashboard_handling.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:14.879849
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 660-264-066
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:17.379575
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:17] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:17] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:18.756115
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:18.758108
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:18] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:18] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:19.356524
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:19.356524
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:19] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:19] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:19.877097
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:19.880087
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:19] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:19] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:20.301506
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:20.303502
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:20] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:20] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:20.818154
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:20.820148
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:20] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:20] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:22.342382
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:22.344375
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:22] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:22] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:24.855542
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:24] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:29.339501
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:29] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:29] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:34.253057
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:07:34.255057
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:07:34.255057
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:34] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:34] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:07:35.554557
+INFO:root:update news has been updated at 2021-12-15 17:07:35.554557
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:35.556551
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:35] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:35] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:38.076441
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:38.078435
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:38] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:38] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:38.994587
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:38.996579
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:38] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:39] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:39.520085
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:39.522083
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:39] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:39] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:39.672379
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:39.674370
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:39] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:39] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:40.224908
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:40.226905
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:40] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:40] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:40.377040
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:07:40.380026
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:40] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:40] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:43.332744
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:43] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:43] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:46.322062
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:07:46.323029
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:07:46.323029
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:46] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:46] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:07:50.773498
+INFO:root:update news has been updated at 2021-12-15 17:07:50.773498
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:50.774491
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:covid is being updated at 2021-12-15 17:07:50.777230
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:07:50.777230
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:50] "GET /index?update=&two=update+news&covid-data=covid-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:50] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:covid data has been updated at 2021-12-15 17:07:52.883879
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesBySpecimenDate%22:%22newCasesBySpecimenDate%22%7D HTTP/1.1" 200 None
+INFO:root:update news has been updated at 2021-12-15 17:07:54.211000
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:54.211000
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:54.217977
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:covid is being updated at 2021-12-15 17:07:54.222960
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:07:54.222960
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:54] "GET /index?update=&two=update+news&covid-data=covid-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:54] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:54] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:covid data has been updated at 2021-12-15 17:07:55.402721
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesBySpecimenDate%22:%22newCasesBySpecimenDate%22%7D HTTP/1.1" 200 None
+INFO:root:update news has been updated at 2021-12-15 17:07:55.533719
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:55.533719
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:55] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:55] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:07:56.248930
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:56] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:07:56] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:01.602996
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:08:01.605986
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:01] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:01] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:02.371051
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:08:02.373044
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:02] "GET /index?notif=Be+%27ready+to+pivot%27+domestic+holiday+travel+plans+amid+rapidly+spreading+omicron+variant%2C+medical+experts+say+%7C+CBC+News HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:02] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:03.128523
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:08:03.131513
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:03.548172
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:08:03.551162
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "GET /index?notif=Covid-19+news%3A+Myocarditis+more+common+after+infection+than+vaccines HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:03.712212
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:08:03.714202
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:03.982134
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news has been removed permanently at 2021-12-15 17:08:03.984130
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:03] "GET /index?notif=Coronavirus+hoy%2C+última+hora+en+directo+%7C+Pfizer+asegura+que+su+pastilla+contra+el+Covid-19+tiene+una HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:04] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:06.903398
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:06] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:11.490552
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:root:news is being updated at 2021-12-15 17:08:11.492545
+INFO:root:Input update dashboard display has been triggered at 2021-12-15 17:08:11.492545
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:11] "GET /index?update=&two=update+news&news=news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:11] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?q=Covid%20COVID-19%20coronavirus&apiKey=f3d1af44de0c432eae28fd2e4a01800e HTTP/1.1" 200 None
+INFO:root:news has been updated at 2021-12-15 17:08:12.948941
+INFO:root:update news has been updated at 2021-12-15 17:08:12.949933
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:08:12.950930
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:12] "GET /index?update_item=update+news HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:08:12] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:09:13.015801
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:09:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:09:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:10:13.088985
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:10:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:10:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:11:13.170429
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:11:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:11:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:12:13.249545
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:12:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:12:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -
+INFO:root:News API data has successfully been formatted at 2021-12-15 17:13:13.320308
+INFO:root:local 7 day covid infections has been obtained through covid_data.json
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:13:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2021 17:13:13] "[36mGET /static/images/image.png HTTP/1.1[0m" 304 -

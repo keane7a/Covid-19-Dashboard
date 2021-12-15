@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "Covid-19 news: Myocarditis more common after infection than vaccines",
+            "description": "The latest coronavirus news updated every day including coronavirus cases, the latest news, features and interviews from New Scientist and essential information about the covid-19 pandemic",
+            "url": "https://www.newscientist.com/article/2237475-covid-19-news-myocarditis-more-common-after-infection-than-vaccines/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2021/12/15130115/pri215205299.jpg",
+            "publishedAt": "2021-12-15T00:00:00Z",
+            "content": "By Michael Le Page, Clare Wilson, Jessica Hamzelou, Sam Wong, Graham Lawton, Adam Vaughan, Conrad Quilty-Harper, Jason Arunn Murugesu and Layal Liverpool\r\nLatest coronavirus news as of 1pm on 15 Dece\u2026 [+70080 chars]"
+        },
+        {
+            "source": {
+                "id": "el-mundo",
+                "name": "El Mundo"
+            },
+            "author": "ESTHER MUCIENTES",
+            "title": "Coronavirus hoy, \u00faltima hora en directo | Pfizer asegura que su pastilla contra el Covid-19 tiene una",
+            "description": "Reino Unido retira a todos los pa\u00edses de la &amp;amp;apos;lista roja&amp;amp;apos;, incluido Sud\u00e1frica, pero mantiene el test negativo El Gobierno brit\u00e1nico h",
+            "url": "https://www.elmundo.es/ciencia-y-salud/salud/2021/12/15/61b92b80c5e20e001eafe4cd-directo.html",
+            "urlToImage": "https://phantom-elmundo.unidadeditorial.es/10f962cc663ce575c9e45beec9dff9aa/f/jpg/assets/multimedia/imagenes/2021/12/15/16395255762187.jpg",
+            "publishedAt": "2021-12-15T05:47:30Z",
+            "content": "La variante \u00f3micron se propaga \"a un ritmo que no hemos visto con ninguna otra variante\", advirti\u00f3 el martes la Organizaci\u00f3n Mundial de la Salud (OMS), que calcula que la mayor\u00eda de los pa\u00edses ya est\u2026 [+1221 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Be 'ready to pivot' domestic holiday travel plans amid rapidly spreading omicron variant, medical experts say | CBC News",
+            "description": "The rapidly spreading omicron coronavirus variant of COVID-19\u00a0means Canadians may have to rethink and be 'ready to pivot' their\u00a0travel plans within the country during this holiday season, medical experts say.",
+            "url": "http://www.cbc.ca/news/health/omnicron-covid-varian-travel-holidays-1.6285713",
+            "urlToImage": "https://i.cbc.ca/1.6274190.1639530398!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-travel-20211203.jpg",
+            "publishedAt": "2021-12-15T09:07:19.8974636Z",
+            "content": "The rapidly spreading omicron coronavirus variant\u00a0means Canadians should be \"ready to pivot\"\u00a0their\u00a0travel plans within the country during this holiday season, said medical experts studying COVID-19.\r\u2026 [+5123 chars]"
+        }
+    ]
+}

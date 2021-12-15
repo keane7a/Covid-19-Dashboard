@@ -1,0 +1,12 @@
+{
+    "api_key" : "f3d1af44de0c432eae28fd2e4a01800e",
+    "covid_terms" : "Covid COVID-19 coronavirus",
+    "news_API_file" : "newsAPI_data.json",
+    "covid_data_file" : "covid_data.json",
+    "remove_news": "permanent", "comment": "'permanent' removes news from file; 'temporary' removes news from a variable hence, will show the news again when server is restarted",
+    "number_of_news_stored": 5,
+    "dashboard_image": "image.png",
+    "dashboard_title":"Covid Data",
+    "dashboard_location": "Exeter",
+    "dashboard_nation_location": "England"
+}
